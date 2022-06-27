@@ -1,0 +1,17 @@
+// .tag-cloud {
+//     text-align: center;
+// }
+
+// .tag-cloud-item {
+//     margin: 0.5rem;
+//     display: inline-block;
+// }
+
+.tag-cloud {
+    text-align: center;
+}
+.tag-cloud-item {
+    margin: ($fontSize * 0.5);
+    display: inline-block;
+}
+
